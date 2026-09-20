@@ -1,0 +1,13 @@
+__pycache__
+*.pyc
+.venv
+venv
+.env
+.git
+.upstox_access_token
+.upstox_orb_config.json
+.upstox_orb_state.json
+.upstox_orb_telegram.json
+.upstox_orb_tg_offset
+upstox_orb_trades.csv
+upstox_orb.log
